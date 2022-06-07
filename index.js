@@ -11,7 +11,7 @@ log(
   )
 );
 
-// Operaciones
+// Operations
 const sum = suma(1, 2);
 console.log(sum);
 
